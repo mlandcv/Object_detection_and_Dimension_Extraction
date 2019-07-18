@@ -1,3 +1,6 @@
+python balloon.py train --dataset=C:\Users\korea\Desktop\codetest\object_detection_and_mass_estimation-master\datasets\tomato --weights=coco
+
+
 # Color Splash Example
 
 This is an example showing the use of Mask RCNN in a real application.
